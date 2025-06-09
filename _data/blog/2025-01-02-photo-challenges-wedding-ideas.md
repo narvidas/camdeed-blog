@@ -5,7 +5,7 @@ date: 2025-01-02T10:30:00.000Z
 title: 10 Creative Photo Challenge Ideas for Your Wedding
 metaDescription: Transform your wedding with these fun and engaging photo
   challenge ideas that will keep guests entertained and capture unique moments.
-thumbnail: /assets/iphone-demo-mockup.png
+thumbnail: /assets/untitled.jpg
 ---
 
 # 10 Creative Photo Challenge Ideas for Your Wedding
