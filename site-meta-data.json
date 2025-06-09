@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Camdeed Blog",
+  "siteUrl": "https://blog.camdeed.com/",
+  "description": "The official blog of Camdeed - your interactive photo and video sharing platform for unforgettable events. Tips, stories, and insights about event photography, guest engagement, and creating lasting memories.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Welcome to the Camdeed Blog",
+    "description": "Discover how to make your events more engaging and memorable with interactive photo challenges, live slideshows, and seamless photo sharing. Whether you're planning a wedding, corporate event, or family gathering, learn how Camdeed helps capture your best moments and keeps guests engaged throughout your special occasions."
   }
 }
