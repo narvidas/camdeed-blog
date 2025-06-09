@@ -26,7 +26,8 @@ export default ({ children }) => {
       {children}
       <footer className="site-footer">
         <p>
-          &copy; {new Date().getFullYear()} Delog &bull; Crafted with{" "}
+          &copy; {new Date().getFullYear()} Best photo sharing app &bull;
+          Crafted with{" "}
           <span role="img" aria-label="love">
             ❤️
           </span>{" "}
