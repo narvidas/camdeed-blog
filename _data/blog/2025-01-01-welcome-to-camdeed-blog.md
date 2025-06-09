@@ -3,8 +3,10 @@ template: BlogPost
 path: /welcome-to-camdeed-blog
 date: 2025-01-01T12:00:00.000Z
 title: Welcome to the Camdeed Blog
-metaDescription: Discover how Camdeed transforms events with interactive photo challenges and seamless sharing. Learn tips for creating unforgettable moments.
-thumbnail: /assets/welcome-hero.jpg
+metaDescription: Discover how Camdeed transforms events with interactive photo
+  challenges and seamless sharing. Learn tips for creating unforgettable
+  moments.
+thumbnail: /assets/screenshot-2025-06-09-at-22.21.17.png
 ---
 
 # Welcome to the Camdeed Blog
