@@ -1,12 +1,12 @@
 ---
 template: BlogPost
 path: /qr-code-event-photo-sharing
-date: 2025-06-21T12:12:04.3300Z
+date: 2025-06-21T12:12:04.330Z
 title: The Complete Guide to QR Code Photo Sharing for Events
 metaDescription: Learn how QR codes are revolutionizing event photo sharing.
-  Discover setup tips, best practices, and why QR codes are the future
-  of guest engagement.
-thumbnail: /assets/qr-code-photo-sharing.jpg
+  Discover setup tips, best practices, and why QR codes are the future of guest
+  engagement.
+thumbnail: /assets/tuokis-hands-holding-phone-close-up.jpg
 ---
 
 # The Complete Guide to QR Code Photo Sharing for Events
