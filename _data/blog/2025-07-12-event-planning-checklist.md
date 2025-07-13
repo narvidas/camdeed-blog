@@ -2,7 +2,7 @@
 template: BlogPost
 path: /event-planning-checklist
 date: 2025-07-12T11:30:01.000Z
-title: The Ultimate Event Planning Checklist: Never Miss a Detail Again
+title: The Ultimate Event Planning Checklist - Never Miss a Detail Again
 metaDescription: Master event planning with this comprehensive checklist
   covering everything from venue selection to post-event follow-up.
   Perfect for weddings, corporate events, and celebrations.
