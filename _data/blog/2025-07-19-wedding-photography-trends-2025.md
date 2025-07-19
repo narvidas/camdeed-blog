@@ -2,7 +2,7 @@
 template: BlogPost
 path: /wedding-photography-trends-2025
 date: 2025-07-19T12:45:23.000Z
-title: Top Wedding Photography Trends for 2025: What's New and Exciting
+title: Top Wedding Photography Trends for 2025 - What's New and Exciting
 metaDescription: Discover the latest wedding photography trends for 2025,
   from interactive guest participation to AI-enhanced editing. Stay ahead
   of the curve for your special day.
